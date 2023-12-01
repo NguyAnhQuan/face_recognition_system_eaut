@@ -1,1 +1,0 @@
-        # self.root.wm_iconbitmap("1face.ico")
