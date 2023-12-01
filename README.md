@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Student management system
 ## Introduction
 Welcome to the University Student Management System with a face recognition attendance feature!
@@ -63,4 +63,3 @@ Perform data entry on the application
 ### View csv files and receive attendance results. The application can be used in exam proctoring situations to avoid taking the exam on behalf of or forgery.
 =======
 #  face_recognition_system_eaut
->>>>>>> 792f17db98e1985b36595a37ce994cb0b995dd44
